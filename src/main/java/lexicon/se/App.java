@@ -18,7 +18,7 @@ public class App
 
 
         Product product1 = new Product("Sprite", 200, 0);
-        Product product2= new Product( productName:"Banan" ,price:8,00, stock:4);
+        Product product2= new Product( "Banana" ,8,00, 4);
         Product product3= new Product("Fruit",50, 2);
 
 
